@@ -85,6 +85,9 @@ h3 {
   cursor: pointer;
 }
 .order-button :focus,
+.order-button:hover {
+  background-color: #404bbf;
+}
 .webstudio {
   font-family: var(--font-secondary);
   font-size: 18px;
