@@ -12,7 +12,7 @@ body {
   letter-spacing: 0.02em;
   background-color: var(--background-color);
 }
-footer {
+.footer {
   background-color: #2e2f42;
   color: #f4f4fd;
 }
