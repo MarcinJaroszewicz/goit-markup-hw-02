@@ -12,6 +12,9 @@ body {
   letter-spacing: 0.02em;
   background-color: var(--background-color);
 }
+footer {
+  background-color: #2e2f42;
+}
 .button {
   cursor: pointer;
 }
