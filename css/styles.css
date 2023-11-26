@@ -92,6 +92,9 @@ h3 {
 .link {
   text-decoration: none;
 }
+.list {
+  list-style: none;
+}
 span {
   color: #2e2f42;
 }
