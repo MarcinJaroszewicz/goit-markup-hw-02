@@ -54,9 +54,12 @@ h1 {
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
+  text-align: center;
 }
-.background-h1 {
+.section-first {
   background-color: #2e2f42;
+}
+.section-second {
 }
 h2 {
   font-size: 36px;
@@ -74,12 +77,14 @@ h3 {
 .order-button {
   color: white;
   background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
 }
+.order-button :focus,
 .webstudio {
   font-family: var(--font-secondary);
   font-size: 18px;
