@@ -68,6 +68,10 @@ body {
   line-height: 1.11;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  text-align: center;
+}
+.header-text {
+  text-transform: capitalize;
 }
 h3 {
   font-size: 20px;
