@@ -48,7 +48,7 @@ body {
 .menu-links-contact:hover {
   color: #404bbf;
 }
-h1 {
+.header-h1 {
   color: white;
   font-size: 56px;
   font-weight: 700;
