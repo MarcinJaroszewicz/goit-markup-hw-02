@@ -74,6 +74,13 @@ body {
   color: #2e2f42;
   text-align: center;
 }
+.header-third {
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
 .header-text {
   text-transform: capitalize;
 }
@@ -84,13 +91,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-h3 {
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-}
+
 .section-fourth {
   background-color: #f4f4fd;
 }
